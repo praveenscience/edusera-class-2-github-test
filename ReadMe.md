@@ -6,3 +6,4 @@ Let's start with listing all the students:
 
 * Praveen Kumar Purushothaman
 * Nilesh Ramakant Yadav
+* Mohamed Mehdi Gara
